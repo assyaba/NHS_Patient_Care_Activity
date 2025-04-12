@@ -1,6 +1,4 @@
-# NHS_Patient_Care_Activity
- 
-# NHS Hospital Admitted Patient Care Activity – Tableau Visualization
+ # NHS Hospital Admitted Patient Care Activity – Tableau Visualization
 
 This repository contains a Tableau data visualization project focused on patient admission activity within the **National Health Service (NHS)**. The project showcases the transformation of an initial dashboard into a more insightful and user-friendly visual analytics tool.
 
