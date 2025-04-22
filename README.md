@@ -4,22 +4,22 @@ This repository contains a Tableau data visualization project focused on patient
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
-### 🔎 Objective
+###  Objective
 
 To analyze and visually enhance NHS patient admission data by reconstructing a Tableau dashboard for better clarity, usability, and operational insight.
 
 
 
-## 📁 Contents
+##  Contents
 
 - `NHS_Hospital_Admissions.twbx`: Tableau Workbook with reconstructed dashboards.
 
 
 ---
 
-## 📉 Data Source
+##  Data Source
 
 - NHS Hospital Admitted Patient Care Activity  
   Source:  
@@ -33,7 +33,7 @@ To analyze and visually enhance NHS patient admission data by reconstructing a T
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 ### Original Dashboard Highlights
 
@@ -51,7 +51,7 @@ To analyze and visually enhance NHS patient admission data by reconstructing a T
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the `.twbx` Tableau workbook in **Tableau Desktop** or **Tableau Public**.
 2. Explore the dashboards:
@@ -61,7 +61,7 @@ To analyze and visually enhance NHS patient admission data by reconstructing a T
 
 ---
 
-## 📝 Works Cited
+##  Works Cited
 
 - [NHS Tableau Visualization by Pradeep Kumar G](https://public.tableau.com/app/profile/pradeepkumar.g/viz/NHSHospitalAdmittedPatientCareActivity/viz)
 - [NHS Digital – Admitted Patient Care Activity](https://digital.nhs.uk/data-and-information/publications/statistical/hospital-admitted-patient-care-activity)
